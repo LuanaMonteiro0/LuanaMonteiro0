@@ -6,6 +6,8 @@ Desenvolvedora Backend apaixonada por soluções escaláveis e tecnologias moder
 > “Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” 
 – Leonardo da Vinci
 
+---
+
 ## 👩🏻‍💻 Sobre Mim
 
 Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP e sou desenvolvedora backend na Salespace, onde desenvolvo e mantenho aplicações robustas usando:
@@ -20,10 +22,12 @@ Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP e sou desenvolve
 
 Tenho interesse contínuo em aprender sobre arquitetura distribuída, machine learning e novas tecnologias que melhorem a eficiência das aplicações.
 
+---
 
 ## 🎈 Projetos em Destaque
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanaMonteiro0&repo=JAVAEE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanaMonteiro0/JAVAEE)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanaMonteiro0&repo=JAVA&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanaMonteiro0/JAVA)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanaMonteiro0&repo=ExpressAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanaMonteiro0/ExpressAPI)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanaMonteiro0&repo=AWS-CDK&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanaMonteiro0/AWS-CDK)
 
+---
 
 ## 💾 🛠️ Tecnologias & Ferramentas
 
@@ -48,4 +52,4 @@ Tenho interesse contínuo em aprender sobre arquitetura distribuída, machine le
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanaMonteiro0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=7131HDMC.7131HDMC&theme=gotham)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LuanaMonteiro0.LuanaMonteiro0&theme=dark)
