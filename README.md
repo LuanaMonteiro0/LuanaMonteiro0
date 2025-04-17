@@ -10,9 +10,9 @@ Desenvolvedora Backend apaixonada por soluções escaláveis e tecnologias moder
 
 Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP e sou desenvolvedora backend na Salespace, onde desenvolvo e mantenho aplicações robustas usando:
 
-- Node.js (Nest.js, Express), TypeScript
+- Node.js, NestJS, Javascript, TypeScript, Bash
 
-- AWS (Lambda, CDK, DynamoDB, SQS, SNS)
+- AWS Lambda, CDK, DynamoDB, SQS, SNS, DynamoDB
 
 - ElasticSearch, Redis, PostgreSQL
 
@@ -23,7 +23,6 @@ Tenho interesse contínuo em aprender sobre arquitetura distribuída, machine le
 
 ## 🎈 Projetos em Destaque
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanaMonteiro0&repo=JAVAEE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanaMonteiro0/JAVAEE)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanaMonteiro0&repo=JAVA&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanaMonteiro0/JAVA)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanaMonteiro0&repo=ExpressAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanaMonteiro0/ExpressAPI)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanaMonteiro0&repo=AWS-CDK&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanaMonteiro0/AWS-CDK)
-
 
 
 ## 💾 🛠️ Tecnologias & Ferramentas
